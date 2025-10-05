@@ -1,8 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Home from './screens/Home';
-import Greeting from './screens/Greeting';
-import About from './screens/About';
+import Home from './Home';
+import Greeting from './Greeting';
+import About from './About';
+
 
 function App() {
   return (
